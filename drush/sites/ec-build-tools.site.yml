@@ -1,0 +1,10 @@
+'*':
+  host: appserver.${env-name}.bcff9f3a-5c77-45c3-a8c4-b27128c042b4.drush.in
+  paths:
+    files: files
+  uri: ${env-name}-ec-build-tools.pantheonsite.io
+  user: ${env-name}.bcff9f3a-5c77-45c3-a8c4-b27128c042b4
+  ssh:
+    options: '-p 2222 -o "AddressFamily inet"'
+    tty: false
+
