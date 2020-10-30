@@ -1,4 +1,4 @@
-uuid: 95623d0b-6373-4ab2-b617-c9e45f619de2
+uuid: 88c10708-05ce-482d-918e-9987edb27f9c
 langcode: en
 status: true
 dependencies: {  }
@@ -7,7 +7,7 @@ _core:
 id: feedback
 label: 'Website feedback'
 recipients:
-  - admin@ec.com
+  - tim@electriccitizen.com
 reply: ''
 weight: 0
 message: 'Your message has been sent.'
