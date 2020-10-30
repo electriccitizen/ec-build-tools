@@ -1,0 +1,14 @@
+uuid: 2cf5556e-3e9c-4a5d-86af-f0f04a34b1b9
+name: ec-build-tools
+mail: tim@electriccitizen.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
